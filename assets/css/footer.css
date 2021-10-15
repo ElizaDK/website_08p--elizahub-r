@@ -1,0 +1,22 @@
+/*
+* FOOTER
+*/
+
+.footer {
+    
+    background: var(--primary-bg-color);
+    padding: 2rem;
+    
+}
+
+.footer .credit{
+   
+   border-top: .1rem solid rgba(0,0,0,0.1);
+   font-size: 1.5rem;
+   padding-bottom: 1rem;
+   padding-top: 2rem;
+   color: var(--primary-text-color);
+}
+.footer  .credit span{
+    color: var(--primary-text-color);
+ }
